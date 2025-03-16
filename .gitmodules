@@ -19,3 +19,6 @@
 [submodule "oh-my-posh"]
 	path = oh-my-posh
 	url = git@github.com:juxtapolarity/oh-my-posh.git
+[submodule "home-manager"]
+	path = home-manager
+	url = git@github.com:juxtapolarity/home-manager.git
