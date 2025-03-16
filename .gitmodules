@@ -1,0 +1,21 @@
+[submodule "zsh"]
+	path = zsh
+	url = git@github.com:juxtapolarity/zsh.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:juxtapolarity/nvim.git
+[submodule "polybar"]
+	path = polybar
+	url = git@github.com:juxtapolarity/polybar.git
+[submodule "i3"]
+	path = i3
+	url = git@github.com:juxtapolarity/i3.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:juxtapolarity/tmux.git
+[submodule "mpv"]
+	path = mpv
+	url = git@github.com:juxtapolarity/mpv.git
+[submodule "oh-my-posh"]
+	path = oh-my-posh
+	url = git@github.com:juxtapolarity/oh-my-posh.git
