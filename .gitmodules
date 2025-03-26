@@ -22,3 +22,9 @@
 [submodule "home-manager"]
 	path = home-manager
 	url = git@github.com:juxtapolarity/home-manager.git
+[submodule "rofi"]
+	path = rofi
+	url = git@github.com:juxtapolarity/rofi.git
+[submodule "wezterm"]
+	path = wezterm
+	url = git@github.com:juxtapolarity/wezterm.git
