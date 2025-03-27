@@ -28,3 +28,6 @@
 [submodule "wezterm"]
 	path = wezterm
 	url = git@github.com:juxtapolarity/wezterm.git
+[submodule "picom"]
+	path = picom
+	url = git@github.com:juxtapolarity/picom.git
